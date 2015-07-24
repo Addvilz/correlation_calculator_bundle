@@ -1,0 +1,3 @@
+services:
+    addvilz_correlation_calculator.correlation_calculator:
+        class: \Addvilz\CorrelationCalculatorBundle\CorrelationCalculator\CorrelationCalculator
