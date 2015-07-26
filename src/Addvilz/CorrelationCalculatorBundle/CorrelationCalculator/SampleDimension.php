@@ -2,6 +2,11 @@
 
 namespace Addvilz\CorrelationCalculatorBundle\CorrelationCalculator;
 
+/**
+ * Dimension of data used to represent value dimension for correlation calculator.
+ *
+ * @package Addvilz\CorrelationCalculatorBundle\CorrelationCalculator
+ */
 class SampleDimension implements \ArrayAccess
 {
     /**

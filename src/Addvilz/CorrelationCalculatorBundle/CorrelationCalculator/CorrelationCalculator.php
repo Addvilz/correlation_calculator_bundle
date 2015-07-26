@@ -2,6 +2,12 @@
 
 namespace Addvilz\CorrelationCalculatorBundle\CorrelationCalculator;
 
+/**
+ * Pearson product-moment correlation coefficient calculator.
+ *
+ * @see https://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient
+ * @package Addvilz\CorrelationCalculatorBundle\CorrelationCalculator
+ */
 class CorrelationCalculator
 {
     /**

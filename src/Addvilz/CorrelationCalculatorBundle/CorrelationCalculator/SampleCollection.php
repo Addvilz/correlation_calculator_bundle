@@ -2,6 +2,10 @@
 
 namespace Addvilz\CorrelationCalculatorBundle\CorrelationCalculator;
 
+/**
+ * Collection of correlate-able dimensions.
+ * @package Addvilz\CorrelationCalculatorBundle\CorrelationCalculator
+ */
 class SampleCollection
 {
     /**
